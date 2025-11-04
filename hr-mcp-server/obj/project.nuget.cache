@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "7o/yzkoKYvc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yezi\\Downloads\\hr-mcp-server\\hr-mcp-server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yezi\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\9.7.1\\microsoft.extensions.ai.abstractions.9.7.1.nupkg.sha512",
+    "C:\\Users\\yezi\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\yezi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\yezi\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\8.0.1\\microsoft.extensions.diagnostics.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\yezi\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0\\microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\yezi\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\8.0.1\\microsoft.extensions.hosting.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\yezi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.3\\microsoft.extensions.logging.abstractions.8.0.3.nupkg.sha512",
+    "C:\\Users\\yezi\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\yezi\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\yezi\\.nuget\\packages\\modelcontextprotocol\\0.3.0-preview.4\\modelcontextprotocol.0.3.0-preview.4.nupkg.sha512",
+    "C:\\Users\\yezi\\.nuget\\packages\\modelcontextprotocol.aspnetcore\\0.3.0-preview.4\\modelcontextprotocol.aspnetcore.0.3.0-preview.4.nupkg.sha512",
+    "C:\\Users\\yezi\\.nuget\\packages\\modelcontextprotocol.core\\0.3.0-preview.4\\modelcontextprotocol.core.0.3.0-preview.4.nupkg.sha512",
+    "C:\\Users\\yezi\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\yezi\\.nuget\\packages\\system.net.serversentevents\\10.0.0-preview.4.25258.110\\system.net.serversentevents.10.0.0-preview.4.25258.110.nupkg.sha512"
+  ],
+  "logs": []
+}

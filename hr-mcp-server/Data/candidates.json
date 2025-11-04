@@ -1,0 +1,136 @@
+[
+  {
+    "firstname": "Anthony",
+    "lastname": "Ivanov",
+    "email": "anthony@contoso.com",
+    "spoken_languages": [
+      "English",
+      "Spanish"
+    ],
+    "skills": [
+      "C#",
+      ".NET",
+      "JavaScript",
+      "SQL",
+      "Azure",
+      "Docker",
+      "Jenkins",
+      "Git",
+      "Leadership",
+      "strategic planning",
+      "effective communication"
+    ],
+    "current_role": "Senior Software Engineer",
+    "full_name": "Anthony Ivanov"
+  },
+  {
+    "firstname": "Arnel",
+    "lastname": "Cruz",
+    "email": "arnel@fabrikam.com",
+    "spoken_languages": [
+      "Filipino",
+      "English"
+    ],
+    "skills": [
+      "C#",
+      ".NET",
+      "JavaScript",
+      "Microsoft SQL Server",
+      "Azure",
+      "Visual Studio",
+      "Git"
+    ],
+    "current_role": "Software Developer",
+    "full_name": "Arnel Cruz"
+  },
+  {
+    "firstname": "Qi",
+    "lastname": "Shi",
+    "email": "qi@northwindtraders.com",
+    "spoken_languages": [
+      "Chinese",
+      "English"
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "C\u002B\u002B",
+      "Django",
+      "Spring",
+      "Kubernetes",
+      "Git",
+      "Innovation",
+      "Leadership",
+      "Cross-functional Collaboration"
+    ],
+    "current_role": "Software Engineer",
+    "full_name": "Qi Shi"
+  },
+  {
+    "firstname": "Ajlal",
+    "lastname": "Nueimat",
+    "email": "ajlal@consolidatedmessenger.com",
+    "spoken_languages": [
+      "Arabic",
+      "English"
+    ],
+    "skills": [
+      "Java",
+      "SQL",
+      "JavaScript",
+      "Spring",
+      "Hibernate",
+      "Docker",
+      "Git"
+    ],
+    "current_role": "Software Engineer",
+    "full_name": "Ajlal Nueimat"
+  },
+  {
+    "firstname": "Bao",
+    "lastname": "Guo",
+    "email": "bao@fabrikam.com",
+    "spoken_languages": [
+      "Chinese",
+      "English"
+    ],
+    "skills": [
+      "C#",
+      ".NET",
+      "SQL",
+      "Azure",
+      "Visual Studio",
+      "Docker",
+      "Git",
+      "System Analysis",
+      "Team Leadership",
+      "Project Management",
+      "Data Analysis"
+    ],
+    "current_role": "Software Development Engineer",
+    "full_name": "Bao Guo"
+  },
+  {
+    "firstname": "Marina",
+    "lastname": "Rodr\u00EDguez",
+    "email": "marina@schooloffineart.net",
+    "spoken_languages": [
+      "Espa\u00F1ol",
+      "Ingl\u00E9s"
+    ],
+    "skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Git",
+      "Creatividad",
+      "trabajo en equipo",
+      "comunicaci\u00F3n efectiva"
+    ],
+    "current_role": "Desarrolladora de Software",
+    "full_name": "Marina Rodr\u00EDguez"
+  }
+]
