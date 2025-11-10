@@ -1,29 +1,5 @@
 [
   {
-    "firstname": "Anthony",
-    "lastname": "Ivanov",
-    "email": "anthony@contoso.com",
-    "spoken_languages": [
-      "English",
-      "Spanish"
-    ],
-    "skills": [
-      "C#",
-      ".NET",
-      "JavaScript",
-      "SQL",
-      "Azure",
-      "Docker",
-      "Jenkins",
-      "Git",
-      "Leadership",
-      "strategic planning",
-      "effective communication"
-    ],
-    "current_role": "Senior Software Engineer",
-    "full_name": "Anthony Ivanov"
-  },
-  {
     "firstname": "Arnel",
     "lastname": "Cruz",
     "email": "arnel@fabrikam.com",
@@ -44,12 +20,59 @@
     "full_name": "Arnel Cruz"
   },
   {
+    "firstname": "Hacer",
+    "lastname": "\u00C7etin",
+    "email": "hacer@tailspintoys.com",
+    "spoken_languages": [
+      "Turkish",
+      "English"
+    ],
+    "skills": [
+      "Java",
+      "SQL",
+      "Spring Boot",
+      "Docker",
+      "Kubernetes",
+      "Git",
+      "Big Data",
+      "Microservices",
+      "Teamwork",
+      "Problem Solving",
+      "Proactive Leadership"
+    ],
+    "current_role": "Yaz\u0131l\u0131m Geli\u015Ftirici",
+    "full_name": "Hacer \u00C7etin"
+  },
+  {
+    "firstname": "Ni",
+    "lastname": "Kang",
+    "email": "ni@proseware.com",
+    "spoken_languages": [
+      "Chinese (native)",
+      "English (fluent)"
+    ],
+    "skills": [
+      "Python",
+      "Django",
+      "JavaScript",
+      "Flask",
+      "React",
+      "Kubernetes",
+      "Git",
+      "Teamwork",
+      "Project Management",
+      "Innovative Thinking"
+    ],
+    "current_role": "Software Engineer",
+    "full_name": "Ni Kang"
+  },
+  {
     "firstname": "Qi",
     "lastname": "Shi",
     "email": "qi@northwindtraders.com",
     "spoken_languages": [
-      "Chinese",
-      "English"
+      "\u4E2D\u6587(\u6BCD\u8BED)",
+      "\u82F1\u8BED(\u6D41\u5229)"
     ],
     "skills": [
       "Python",
@@ -59,78 +82,33 @@
       "Spring",
       "Kubernetes",
       "Git",
-      "Innovation",
-      "Leadership",
-      "Cross-functional Collaboration"
+      "\u521B\u65B0",
+      "\u9886\u5BFC\u529B",
+      "\u8DE8\u529F\u80FD\u534F\u4F5C"
     ],
-    "current_role": "Software Engineer",
+    "current_role": "\u8F6F\u4EF6\u5DE5\u7A0B\u5E08",
     "full_name": "Qi Shi"
   },
   {
-    "firstname": "Ajlal",
-    "lastname": "Nueimat",
-    "email": "ajlal@consolidatedmessenger.com",
+    "firstname": "Shiori",
+    "lastname": "Sakamoto",
+    "email": "shiori@vanarsdelltd.com",
     "spoken_languages": [
-      "Arabic",
-      "English"
+      "\u65E5\u672C\u8A9E",
+      "\u82F1\u8A9E"
     ],
     "skills": [
       "Java",
       "SQL",
-      "JavaScript",
       "Spring",
       "Hibernate",
       "Docker",
-      "Git"
-    ],
-    "current_role": "Software Engineer",
-    "full_name": "Ajlal Nueimat"
-  },
-  {
-    "firstname": "Bao",
-    "lastname": "Guo",
-    "email": "bao@fabrikam.com",
-    "spoken_languages": [
-      "Chinese",
-      "English"
-    ],
-    "skills": [
-      "C#",
-      ".NET",
-      "SQL",
-      "Azure",
-      "Visual Studio",
-      "Docker",
       "Git",
-      "System Analysis",
-      "Team Leadership",
-      "Project Management",
-      "Data Analysis"
+      "\u30C1\u30FC\u30E0\u30EA\u30FC\u30C0\u30FC\u30B7\u30C3\u30D7",
+      "\u554F\u984C\u89E3\u6C7A",
+      "\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\u7BA1\u7406"
     ],
-    "current_role": "Software Development Engineer",
-    "full_name": "Bao Guo"
-  },
-  {
-    "firstname": "Marina",
-    "lastname": "Rodr\u00EDguez",
-    "email": "marina@schooloffineart.net",
-    "spoken_languages": [
-      "Espa\u00F1ol",
-      "Ingl\u00E9s"
-    ],
-    "skills": [
-      "JavaScript",
-      "HTML",
-      "CSS",
-      "React",
-      "Node.js",
-      "MongoDB",
-      "Git",
-      "Creatividad",
-      "trabajo en equipo",
-      "comunicaci\u00F3n efectiva"
-    ],
-    "current_role": "Desarrolladora de Software",
-    "full_name": "Marina Rodr\u00EDguez"
+    "current_role": "\u30BD\u30D5\u30C8\u30A6\u30A7\u30A2\u30A8\u30F3\u30B8\u30CB\u30A2",
+    "full_name": "Shiori Sakamoto"
   }
 ]

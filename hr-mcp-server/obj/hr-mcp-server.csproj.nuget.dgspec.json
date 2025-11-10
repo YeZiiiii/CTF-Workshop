@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yezi\\Downloads\\hr-mcp-server\\hr-mcp-server.csproj": {}
+    "C:\\Users\\yezi\\Documents\\GitHub\\CTF-Workshop\\hr-mcp-server\\hr-mcp-server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yezi\\Downloads\\hr-mcp-server\\hr-mcp-server.csproj": {
+    "C:\\Users\\yezi\\Documents\\GitHub\\CTF-Workshop\\hr-mcp-server\\hr-mcp-server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yezi\\Downloads\\hr-mcp-server\\hr-mcp-server.csproj",
+        "projectUniqueName": "C:\\Users\\yezi\\Documents\\GitHub\\CTF-Workshop\\hr-mcp-server\\hr-mcp-server.csproj",
         "projectName": "hr-mcp-server",
-        "projectPath": "C:\\Users\\yezi\\Downloads\\hr-mcp-server\\hr-mcp-server.csproj",
+        "projectPath": "C:\\Users\\yezi\\Documents\\GitHub\\CTF-Workshop\\hr-mcp-server\\hr-mcp-server.csproj",
         "packagesPath": "C:\\Users\\yezi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yezi\\Downloads\\hr-mcp-server\\obj\\",
+        "outputPath": "C:\\Users\\yezi\\Documents\\GitHub\\CTF-Workshop\\hr-mcp-server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

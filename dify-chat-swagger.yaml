@@ -40,11 +40,11 @@ paths:
                 additionalProperties: true
               user:
                 type: string
-                enum:
-                  - "copilot-user"
+                description: User identifier
                 default: "copilot-user"
               response_mode:
                 type: string
+                description: Response mode
                 enum:
                   - "blocking"
                 default: "blocking"
@@ -56,3 +56,4 @@ paths:
             properties:
               answer:
                 type: string
+                description: Answer from dify
