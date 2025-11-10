@@ -2,6 +2,7 @@ hr-mcp-server/bin/Debug/net8.0/Data/candidates.json
 hr-mcp-server/bin/Debug/net8.0/hr-mcp-server.dll
 hr-mcp-server/bin/Debug/net8.0/hr-mcp-server.exe
 hr-mcp-server/bin/Debug/net8.0/hr-mcp-server.pdb
+hr-mcp-server/Data/candidates.json
 hr-mcp-server/obj/Debug/net8.0/apphost.exe
 hr-mcp-server/obj/Debug/net8.0/hr-mcp-server.AssemblyInfo.cs
 hr-mcp-server/obj/Debug/net8.0/hr-mcp-server.AssemblyInfoInputs.cache
